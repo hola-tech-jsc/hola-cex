@@ -14,6 +14,12 @@ This project demonstrates how to build a low-latency, event-driven matching engi
 
 ---
 
+## Live Demo
+
+[https://cex.holadev.xyz](https://cex.holadev.xyz)
+
+---
+
 ## Example Use Cases
 
 - Research on matching engine design and event-sourced architectures
